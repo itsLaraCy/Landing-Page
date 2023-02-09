@@ -1,8 +1,6 @@
-🌟 Welcome to My Personal Portfolio Page 🌟
+🌟This is a sample of a landing page 🌟
 
-Hi, I'm currently working on becoming a full-stack web developer. I want to create beautiful and intuitive websites 💻 and I love using my skills to bring ideas to life 🚀.
-
-🎖️ Skills
+🎖️Demonstrated Skills:
 •HTML 💻
 •CSS 🎨
-•Python 🐍
+•Flexbox 🧩
